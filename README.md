@@ -20,8 +20,8 @@ You may wish to fork this repository or remove my remote origin and add your own
 
 1. To download the repository and install dependencies, run the following commands:
 ```bash
-git clone git://github.com/mldangelo/personal-site.git
-cd personal-site
+git clone git://github.com/jineshsoni/mysite.github.io.git
+cd project-folder
 yarn
 ```
 If you do not have `yarn` installed, you may run `npm install` instead.
