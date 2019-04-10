@@ -19,7 +19,7 @@ const sections = [
   'Education',
   'Experience',
   'Skills',
-  'Courses',
+  // 'Courses',
   'References',
 ];
 
@@ -42,7 +42,7 @@ const Resume = () => (
       <Education data={degrees} />
       <Experience data={positions} />
       <Skills skills={skills} categories={categories} />
-      <Courses data={courses} />
+      {/* <Courses data={courses} /> */}
       <References />
 
     </article>

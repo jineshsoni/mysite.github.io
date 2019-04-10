@@ -21,8 +21,9 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Jinesh. I like building things.
-            I am a Computer Science graduate, and
-            the co-founder and CTO of <a href="http://arthena.com">Arthena</a>.
+            I am a computer science graduate, working as team lead at <a href="http://thinkwik.com">Thinkwik</a>.
+            Having a 4.5+ years of experince in delivering dream products for one who trusted me.
+            I am a certified android developer, an intrapreneur, crypto enthusiast, learning hybrid application and machine learning.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +38,7 @@ const Nav = () => (
           <li key={s.label}><a href={s.link}><FontAwesomeIcon icon={s.icon} /></a></li>
         ))}
       </ul>
-      <p className="copyright">&copy; Jinesh Soni <Link to="/">jineshsoni.com</Link>.</p>
+      <p className="copyright">&copy; 2019-2020 <Link to="/">jineshsoni.com</Link>.</p>
     </section>
   </section>
 );
