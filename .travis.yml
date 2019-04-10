@@ -39,6 +39,6 @@ script:
 - npm test
 notifications:
   email:
-  - jinesh2025@gmail.com
+  - hi@jineshsoni.com
 git:
   depth: 10

@@ -4,7 +4,7 @@ const positions = [
     company: 'Thinkwik Online India LLP.',
     position: 'Intrapreneur | Team Leader | Android Developer',
     link: 'https://thinkwik.com',
-    daterange: 'July 2014 - May 2016',
+    daterange: 'December 2018 - Present',
     points: [
       'Joined Codecrunch with aim to work with like minded people, where I has opportunity to grow as individual and also as a team player',
       'Managed and coordinated teams in multiple domains, drafted product design and executed the implementation',
@@ -15,7 +15,7 @@ const positions = [
     company: 'CodeCrunch Techlabs Pvt. Ltd.',
     position: 'Intrapreneur | Full Stack Android developer',
     link: 'https://codecrunch.co/',
-    daterange: 'July 2014 - May 2016',
+    daterange: 'June 2016 - November 2018',
     points: [
       'Joined Codecrunch with aim to work with like minded people, where I has opportunity to grow as individual and also as a team player',
       'Managed and coordinated teams in multiple domains, drafted product design and executed the implementation',

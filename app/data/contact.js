@@ -29,7 +29,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:jinesh2025@gmail.com',
+    link: 'mailto:hi@jineshsoni.com',
     label: 'Email',
     icon: faEnvelope,
   },
