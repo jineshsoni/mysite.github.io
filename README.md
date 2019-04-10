@@ -1,4 +1,4 @@
-## [jineshsoni.com](http://jineshsoni.com) and simplified [jineshsoni.github.io/mysite.github.io](jineshsoni.github.io/mysite.github.io)
+## [jineshsoni.com](http://jineshsoni.com) and simplified (jineshsoni.github.io/mysite.github.io)
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
 
