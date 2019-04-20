@@ -6,10 +6,9 @@ const positions = [
     link: 'https://thinkwik.com',
     daterange: 'December 2018 - Present',
     points: [
-      'Joined Codecrunch with aim to work with like minded people, where I has opportunity to grow as individual and also as a team player',
-      'Managed and coordinated teams in multiple domains, drafted product design and executed the implementation',
-      'Responsible for developing company’s prime product Studentdesk.in and also developed its mobile application. Along with prime product Cointopper.com', 
-      'Also responsible for developing and mentoring other products in the company and developing the mobile application for the same.'
+     'Currently serving at Thinkwik as a Team lead and Android developer with aim to contribue in the growth of company',
+     'Responsible for coordinating within team and clients, and delivering excellent products',
+     'Also leading team in mobile developement and developing mobile applications for the same',
     ],
   }, {
     company: 'CodeCrunch Techlabs Pvt. Ltd.',
