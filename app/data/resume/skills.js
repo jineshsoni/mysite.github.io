@@ -98,6 +98,7 @@ export const skills = [
     compentency: 2,
     category: ['Web Development', 'Tools'],
   },
+  
   {
     title: 'MySQL',
     compentency: 3,
