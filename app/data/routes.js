@@ -4,10 +4,10 @@ const data = [
     label: 'Jinesh Soni',
     index: true,
   },
-  {
-    path: '/about',
-    label: 'About',
-  },
+  // {
+  //   path: '/about',
+  //   label: 'About',
+  // },
   {
     path: '/resume',
     label: 'Resume',
